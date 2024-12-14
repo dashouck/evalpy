@@ -1,0 +1,9 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Bytecode files
+*.pyc
+*.pyo
+*.pyd
